@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xinyu Xia
-- 👀 I’m interested in Cross modal retrieval
+- 👀 I’m interested in information retrieval, hashing and multimodal learning.
 - 📫 xiaxinyu97@gmail.com
   
 ![XinyuXia's GitHub stats](https://github-readme-stats.vercel.app/api?username=XinyuXia97&show_icons=true&theme=merko)
